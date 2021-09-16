@@ -1,3 +1,15 @@
+![alt text](https://blog.apiki.com/wp-content/uploads/sites/2/2017/08/Desenvolvedores-full-stack-s%C3%A3o-um-risco-%C3%A0-seguran%C3%A7a-do-meu-site-open-graph.png)
+
+This application simulates the operating logic of an elevator. It has three features:
+
+1. Elevator Operation
+
+2. Call History
+
+3. Elevator Movement Log 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
